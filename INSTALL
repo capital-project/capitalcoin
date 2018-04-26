@@ -1,0 +1,9 @@
+Building Capitalcoin
+
+See doc/readme-qt.rst for instructions on building Capitalcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Capitalcoin.
+
+See doc/build-*.txt for instructions on building capitalcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Capitalcoin.
